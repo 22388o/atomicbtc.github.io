@@ -18,6 +18,7 @@ export {
   BnbSwap,
   MaticSwap,
   ArbitrumSwap,
+  LightningNetworkSwap
   GhostSwap,
   NextSwap,
 
